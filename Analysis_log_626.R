@@ -1,4 +1,4 @@
-
+#edits from veritashb
 #netatmo data: temperature distribution
 head(ntx_0721)
 ntx_0721$studyday<-format(ntx_0721$datetime,"%m/%d")
